@@ -1,8 +1,8 @@
-#Lucy Hu
+ #Lucy Hu
 
-##Facts about me
-- **Major: ** Computer Engineering 
-- **Minor: ** Business
+ ##Facts about me
+-  **Major: ** Computer Engineering 
+-  **Minor: ** Business
 - ** Year: ** Junior at UCSD
 - ** Hobbies: ** 
   - Swimming
@@ -12,7 +12,7 @@
   - Eating 
 - ** Favorite color: ** blue 
 - ** Favorite quote about programming: **
-  - >while there's code, there's bugs 
+  > while there's code, there's bugs 
 - My ***top 3 *** favorite terminal commands 
   - `cd`
   - `clear`
