@@ -16,7 +16,7 @@
   - `cd`
   - `clear`
   - `ls`
-  - More information on terminal commands [here](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/){target="_blank"}
+  - More information on terminal commands [here](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
   
 ##Programming languages I know
 1. Python
