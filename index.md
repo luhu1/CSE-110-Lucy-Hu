@@ -4,7 +4,7 @@
 -  **Major:** Computer Engineering 
 -  **Minor:** Business
 -  **Year:** Junior at UCSD
-- ** Hobbies: ** 
+- **Hobbies:** 
   - Swimming
   - Painting 
   - Sleeping 
