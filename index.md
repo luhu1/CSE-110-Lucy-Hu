@@ -1,6 +1,7 @@
- # Lucy Hu 
- 
+
 ![Profile Picture](./images/lucy.jpg)
+
+ # Lucy Hu 
 
  ### Facts about me
 -  **Major:** Computer Engineering 
