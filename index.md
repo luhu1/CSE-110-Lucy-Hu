@@ -1,4 +1,5 @@
 #Lucy Hu
+
 ##Facts about me
 - **Major: ** Computer Engineering 
 - **Minor: ** Business
