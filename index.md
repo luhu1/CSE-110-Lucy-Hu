@@ -1,5 +1,7 @@
  # Lucy Hu 
+ 
 ![Profile Picture](./images/lucy.jpg)
+
  ### Facts about me
 -  **Major:** Computer Engineering 
 -  **Minor:** Business
