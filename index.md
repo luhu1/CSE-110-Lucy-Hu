@@ -1,14 +1,14 @@
- # Lucy Hu
-
+ # Lucy Hu 
+![Profile Picture](./images/lucy.jpg)
  ### Facts about me
 -  **Major:** Computer Engineering 
 -  **Minor:** Business
 -  **Year:** Junior at UCSD
 - **Hobbies:** 
-  - Swimming
-  - Painting 
-  - Sleeping 
-  - Cooking 
+  - [Swimming](images/swimming.png)
+  - [Painting](images/painting.png) 
+  - [Sleeping](images/sleeping.png) 
+  - [Cooking](images/cooking.png) 
   - Eating 
 - **Favorite color:** blue 
 - **Favorite quote about programming:**
